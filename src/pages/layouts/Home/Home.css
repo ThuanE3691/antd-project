@@ -1,0 +1,15 @@
+.mybtn {
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+   background-color: #007bc0;
+   height: 100px;
+}
+.my-row {
+   width: 90%;
+}
+.project-title {
+   padding: 40px;
+   margin: 0;
+   margin-bottom: 80px;
+}
